@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.search-page {
+  padding: 20px;
+  color: black;
+}
+
+.search-page h1 {
+  margin-bottom: 20px;
+}
+
+.search-form {
+  margin-bottom: 20px;
+}
+
+.search-form input {
+  padding: 10px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+.search-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.search-form button:hover {
+  background-color: #0056b3;
+}
